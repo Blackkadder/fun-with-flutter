@@ -9,6 +9,13 @@
 .history
 .svn/
 .vscode
+.firebase/
+.firebaserc
+firebase.json
+node_modules/
+package-lock.json
+package.json
+
 
 
 # IntelliJ related
